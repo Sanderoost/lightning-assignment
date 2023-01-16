@@ -1,0 +1,6 @@
+{
+  "name": "final project",
+  "identifier": "com.sander.app.final-project",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
